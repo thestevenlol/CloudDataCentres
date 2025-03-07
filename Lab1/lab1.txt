@@ -1,0 +1,36 @@
+1. Check if your processor supports Intel/AMD virtualization technology. Enable Intel virtualization technology in BIOS if possible.
+Supported & Enabled.
+
+2. The cloud is almost everywhere in our lives now. What do you think are the fundamental reasons behind its success? Name three pros and three cons of cloud.
+Fundamental reasons for cloud success: Scalability, cost-effectiveness, and accessibility.
+Pros of cloud: Cost savings, scalability, accessibility from anywhere.
+Cons of cloud: Security risks, vendor lock-in, internet dependency.
+
+3. What is the primary function of a hypervisor in virtualization?
+The primary function of a hypervisor is to manage and allocate physical hardware resources to multiple virtual machines (VMs), enabling virtualization.
+
+4. What is a virtual machine (VM)?
+A virtual machine (VM) is a software-defined computer that emulates the functionality of a physical computer.
+
+5. What are the benefits of using virtual machines?
+Resource optimization, isolation, portability, and simplified disaster recovery.
+
+6. List five use cases of virtual machines.
+- Server consolidation
+- Software testing
+- Development environments
+- Cloud computing services
+- Running legacy applications
+
+7. In virtualization, what is the guest operating system?
+b) The operating system installed on a virtual machine
+
+8. What does virtual machine isolation mean?
+c) Virtual machines run independently and are isolated from each other and the host system..
+
+
+9. What is the benefit of virtual machine portability?
+c) It allows virtual machines to be moved between different physical machines with compatible hypervisors.
+
+10. What is the purpose of cloning a virtual machine?
+Quickly create identical copies of a VM for purposes like deployment, testing, or backup.
